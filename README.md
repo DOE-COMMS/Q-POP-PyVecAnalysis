@@ -1,4 +1,11 @@
-# PyPINS
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/DOE-COMMS/Q-POP-PyVecAnalysis/total)
+![GitHub release version](https://img.shields.io/github/v/release/DOE-COMMS/Q-POP-PyVecAnalysis?color=%2350C878&include_prereleases)
+![License](https://img.shields.io/github/license/DOE-COMMS/Q-POP-PyVecAnalysis)
+![GitHub Size](https://img.shields.io/github/repo-size/DOE-COMMS/Q-POP-PyVecAnalysis)
+![HitCount](https://hits.dwyl.com/DOE-COMMS/Q-POP-PyVecAnalysis.svg?style=flat-square&show=unique)
+![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FDOE-COMMS%2FQ-POP-PyVecAnalysis.json&label=total%20hits&color=pink)
+
+# Q-POP-PyVecAnalysis (PyPINS)
 
 **Py**thon **P**rogrammatic **I**dentification of **N**ovel **S**tructures (PyPINS) is a software suite written for identifying various flow structures that can exist in flow fields, such as vortices and eddys. In addition, this suite can be utilized to identify the location and number of novel topological structures like Skyrmions, Monopoles, and similar objects of interest to the condensed physics community. 
 

@@ -8,7 +8,7 @@
 
 **Py**thon **P**rogrammatic **I**dentification of **N**ovel **S**tructures (PyPINS) is a software suite written for identifying various flow structures that can exist in flow fields, such as vortices and eddys. In addition, this suite can be utilized to identify the location and number of novel topological structures like Skyrmions, Monopoles, and similar objects of interest to the condensed physics community. 
 
-## Acknowledgment
+## Acknowledgments
 
 Much work for this project was accomplished using the Extreme Science and Engineering Discovery Environment (XSEDE), which was supported by National Science Foundation grant number #1548562. Additionally, partial funding for this software was provided via a grant from the United States Department of Energy Basic Energy Sciences Grant Number: DE-SC0020145. Lastly, I would like to the thank the numerous research group members that also tested the program and suggested ideas for enhancment and usability of the software package.
 
